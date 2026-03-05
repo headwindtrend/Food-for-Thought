@@ -57,11 +57,21 @@ People begin introducing themselves as if they are job titles wearing human bodi
 “I’m a manager.”  
 “I’m a founder.”
 
-But these are not identities.
+A job is something you **do**.
+
+Not something you **are**.
+
+These are not identities.
 
 They are **roles**.
 
 And roles can quietly become cages.
+
+Imagine introducing yourself this way:
+
+“I’m someone who spends most of my waking life performing tasks for an organization.”
+
+It suddenly sounds less glamorous.
 
 ## The Comfort of Avoidance
 
